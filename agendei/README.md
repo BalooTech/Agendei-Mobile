@@ -1,6 +1,6 @@
 # agendei
 
-A new Flutter project.
+A new Swift project.
 
 ## Getting Started
 
